@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=icefjl&show_icons=true&theme=tokyonight&count_private=true"/>
 </p>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icefjl&hide=javascript,html"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icefjl&hide=javascript,html&layout=compact"/>
 </p>
