@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![ICEFJL's GitHub stats](https://github-readme-stats.vercel.app/api?username=icefjl&show_icons=true&theme=tokyonight&count_private=true)
-
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=icefjl&show_icons=true&theme=tokyonight&count_private=true"/>
+</p>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icefjl&hide=javascript,html"/>
 </p>
