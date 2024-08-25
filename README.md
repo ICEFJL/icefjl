@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <div style="display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icefjl&hide=javascript,html&layout=compact" alt="Top Langs" />
-    <img src="https://github-readme-stats.vercel.app/api?username=icefjl&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icefjl&hide=javascript,html&layout=compact" alt="Top Langs" style="margin-right: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=icefjl&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" style="margin-left: 10px;" />
   </div>
 </p>
